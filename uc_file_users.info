@@ -1,0 +1,6 @@
+name = Ubercart Files Users
+description = Administrative tools for Ubercart download files and their users.
+dependencies[] = uc_file
+package = Ubercart - extra
+backdrop = 1.x
+type = module
